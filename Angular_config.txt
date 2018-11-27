@@ -11,7 +11,7 @@ ng new APMSample
 npm start
 
 npm install -d
-npm insatll
+npm install
 
 ng g c products\product-list --flat
 
@@ -22,6 +22,8 @@ ng g p shared/convertospace
 
 
 ng g s services\product --flat
+
+ng g c welcome\welcome --flat
 
 
 
